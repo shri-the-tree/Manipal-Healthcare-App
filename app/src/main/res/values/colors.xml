@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Array of colors that will be used by ViewPager as background colors -->
+    <array name="colorPagesViewPager">
+        <item>#EDD9CF</item>
+        <item>#BED4D6</item>
+        <item>#ADCEB7</item>
+        <item>#F7CF8B</item>
+        <item>#FD96A2</item>
+    </array>
+
+    <!-- Shades of blue -->
+    <color name="skyBlue">#87CEEB</color>
+    <color name="darkSkyBlue">#6CA0BB</color>
+    <color name="steelBlue">#4682B4</color>
+    <color name="darkSteelBlue">#36597A</color>
+    <color name="lightBlue">#ADD8E6</color>
+    <color name="darkLightBlue">#8BB2BA</color>
+    <color name="dodgerBlue">#1E90FF</color>
+    <color name="darkDodgerBlue">#1C78D2</color>
+    <color name="deepSkyBlue">#00BFFF</color>
+    <color name="darkDeepSkyBlue">#009ACD</color>
+    <color name="cornflowerBlue">#6495ED</color>
+    <color name="darkCornflowerBlue">#436CAE</color>
+    <color name="royalBlue">#4169E1</color>
+    <color name="darkRoyalBlue">#2D4BA5</color>
+    <color name="mediumSlateBlue">#7B68EE</color>
+    <color name="darkMediumSlateBlue">#594AAB</color>
+    <color name="tealBlue">#367588</color>
+    <color name="darkTealBlue">#285762</color>
+    <color name="powderBlue">#B0E0E6</color>
+    <color name="darkPowderBlue">#8BBAC3</color>
+
+</resources>
